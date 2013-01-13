@@ -16,6 +16,7 @@ LIST_OF_DOCTESTS = [
     "base",
     "temperature",
     "wilson",
+    "bayesian",
 ]
 
 LIST_OF_UNITTESTS = [
